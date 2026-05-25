@@ -1,0 +1,12 @@
+name = "bare_loop"
+description = "Program for a Bare Loop in Ada"
+version = "0.1.0-dev"
+
+authors = ["Vaishnav S"]
+maintainers = ["Vaishnav S <vaishnav.sabari.girish@gmail.com>"]
+maintainers-logins = ["Vaishnav-Sabari-Girish"]
+licenses = "MIT"
+website = ""
+tags = ["loops", "bare-loop"]
+
+executables = ["bare_loop"]

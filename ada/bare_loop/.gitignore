@@ -1,0 +1,14 @@
+# Compiled Objects and Executables
+/obj/
+/bin/
+
+# Alire-specific configuration and cache
+/alire/
+/config/
+alire.toml.prev
+alire.lock.prev
+
+# SPARK Verification Artifacts
+gnatprove/
+*.log
+*.spark
