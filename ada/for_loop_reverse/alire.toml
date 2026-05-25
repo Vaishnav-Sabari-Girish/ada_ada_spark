@@ -1,0 +1,12 @@
+name = "for_loop_reverse"
+description = "Reverse For Loop"
+version = "0.1.0-dev"
+
+authors = ["Vaishnav S"]
+maintainers = ["Vaishnav S <vaishnav.sabari.girish@gmail.com>"]
+maintainers-logins = ["Vaishnav-Sabari-Girish"]
+licenses = "MIT"
+website = ""
+tags = ["reverse", "for-loop", "loop"]
+
+executables = ["for_loop_reverse"]
