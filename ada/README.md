@@ -5,3 +5,4 @@
 3. [For Loop](./for_loops/src/for_loops.adb)
 4. [Reverse For Loop](./for_loop_reverse/src/for_loop_reverse.adb)
 5. [Bare Loops](./bare_loop/src/bare_loop.adb)
+6. [While Loop](./while_loop/src/while_loop.adb)

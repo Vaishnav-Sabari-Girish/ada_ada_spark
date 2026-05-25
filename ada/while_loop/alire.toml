@@ -1,0 +1,12 @@
+name = "while_loop"
+description = "While Loop program"
+version = "0.1.0-dev"
+
+authors = ["Vaishnav S"]
+maintainers = ["Vaishnav S <vaishnav.sabari.girish@gmail.com>"]
+maintainers-logins = ["Vaishnav-Sabari-Girish"]
+licenses = "MIT"
+website = ""
+tags = ["loops", "while-loop"]
+
+executables = ["while_loop"]
