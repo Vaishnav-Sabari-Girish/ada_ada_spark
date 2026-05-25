@@ -1,0 +1,12 @@
+name = "case_statement"
+description = "Program for case statement in Ada"
+version = "0.1.0-dev"
+
+authors = ["Vaishnav S"]
+maintainers = ["Vaishnav S <vaishnav.sabari.girish@gmail.com>"]
+maintainers-logins = ["Vaishnav-Sabari-Girish"]
+licenses = "MIT"
+website = ""
+tags = ["statement", "loops", "case-when"]
+
+executables = ["case_statement"]
