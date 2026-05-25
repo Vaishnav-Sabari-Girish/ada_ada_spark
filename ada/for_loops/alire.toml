@@ -1,0 +1,12 @@
+name = "for_loops"
+description = "This is the program for For Loop"
+version = "0.1.0-dev"
+
+authors = ["Vaishnav S"]
+maintainers = ["Vaishnav S <vaishnav.sabari.girish@gmail.com>"]
+maintainers-logins = ["Vaishnav-Sabari-Girish"]
+licenses = "MIT"
+website = ""
+tags = ["for-loop", "loops"]
+
+executables = ["for_loops"]
