@@ -1,0 +1,12 @@
+name = "local_vars"
+description = "Ada program to declare local variable amidst the statements"
+version = "0.1.0-dev"
+
+authors = ["Vaishnav S"]
+maintainers = ["Vaishnav S <vaishnav.sabari.girish@gmail.com>"]
+maintainers-logins = ["Vaishnav-Sabari-Girish"]
+licenses = "MIT"
+website = ""
+tags = ["learn-ada", "ada", "local"]
+
+executables = ["local_vars"]

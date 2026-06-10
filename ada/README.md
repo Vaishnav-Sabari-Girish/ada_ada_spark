@@ -9,3 +9,4 @@
 7. [Case Statement](./case_statement/src/case_statement.adb)
 8. [Declarative Regions](./declarative_regions/src/declarative_regions.adb)
 9. [Nested Procedures](./nested_procedures/src/nested_procedures.adb)
+10. [Local variables](./local_vars/src/local_vars.adb)
