@@ -1,0 +1,12 @@
+name = "declarative_regions"
+description = "program to show declarative regions in Ada"
+version = "0.1.0-dev"
+
+authors = ["Vaishnav S"]
+maintainers = ["Vaishnav S <vaishnav.sabari.girish@gmail.com>"]
+maintainers-logins = ["Vaishnav-Sabari-Girish"]
+licenses = "MIT"
+website = ""
+tags = ["learn-ada", "ada"]
+
+executables = ["declarative_regions"]

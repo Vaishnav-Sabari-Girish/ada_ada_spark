@@ -1,0 +1,12 @@
+build:
+    @alr build
+
+run:
+    @alr run
+
+prove:
+    @alr gnatprove
+
+clean:
+    @alr clean
+    @rm -rf obj/ bin/
