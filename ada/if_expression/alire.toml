@@ -1,0 +1,12 @@
+name = "if_expression"
+description = "Ada program for an if expression (Not if statement)"
+version = "0.1.0-dev"
+
+authors = ["Vaishnav S"]
+maintainers = ["Vaishnav S <vaishnav.sabari.girish@gmail.com>"]
+maintainers-logins = ["Vaishnav-Sabari-Girish"]
+licenses = "MIT"
+website = ""
+tags = ["learn-ada", "ada", "if"]
+
+executables = ["if_expression"]
