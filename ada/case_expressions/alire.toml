@@ -1,0 +1,12 @@
+name = "case_expressions"
+description = "Not the same as switch statements. This is for expressions"
+version = "0.1.0-dev"
+
+authors = ["Vaishnav S"]
+maintainers = ["Vaishnav S <vaishnav.sabari.girish@gmail.com>"]
+maintainers-logins = ["Vaishnav-Sabari-Girish"]
+licenses = "MIT"
+website = ""
+tags = ["learn-ada", "ada", "case"]
+
+executables = ["case_expressions"]
