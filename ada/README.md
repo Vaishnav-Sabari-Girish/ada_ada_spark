@@ -12,3 +12,4 @@
 10. [Local variables](./local_vars/src/local_vars.adb)
 11. [If Expression (Not the same as If/Then/Else)](./if_expression/src/if_expression.adb)
 12. [Case Expressions (Not the same as Case Statement)](./case_expressions/src/case_expressions.adb)
+13. [Subprograms](./subprograms/src/subprograms.adb)
